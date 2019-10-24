@@ -5,7 +5,7 @@ Panukova E. (60%) , Kuznetsova K. (55%)
 
 """
 
-import local_case3 as lc
+import local_case3_russian as lc
 
 from prettytable import PrettyTable
 
